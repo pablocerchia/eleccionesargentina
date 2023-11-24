@@ -8,6 +8,8 @@ Los .csv y .geojson están normalizados con el fin de que joinear entre las dist
 
 Todos los resultados están procesados en base a votos afirmativos, es decir, para las PASO no se tiene en cuenta el voto en blanco.
 
-Cualquier consulta o si encuentran algún error escribir a pablocerchia@gmail.com
+Cualquier consulta o si encuentran algún error escribir a pablocerchia@gmail.com.
+
+Si te interesó esto también armé este sitio para visualizar resultados de las elecciones entre 2011 y 2023 en Argentina: elecciones2023.streamlit.app
 
 Si alguna geometría llega a tener un error, acá se puede descargar el geojson del Instituto Geográfico Nacional con todas las secciones electorales también: https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG
