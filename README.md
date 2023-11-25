@@ -11,3 +11,5 @@ Todos los resultados están procesados en base a votos afirmativos, es decir, pa
 Si te interesó esto también armé este sitio para visualizar resultados de las elecciones entre 2011 y 2023 en Argentina: [https://elecciones2023.streamlit.app/](https://elecciones2023.streamlit.app/)
 
 Si alguna geometría llega a tener un error, acá se puede descargar el geojson del Instituto Geográfico Nacional con todas las secciones electorales también: https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG
+
+Notas al pie: en 2011 hay tres tipos de Rosario: Rosario, Rosario Barr. y Rosario Camp. Luego en cada elección suele haber dos o tres secciones que no tienen datos, las cuales suelen ser: Antofagasta de la Sierra (Catamarca), Santa Victoria (Salta), Rivadavia (Salta), Valle Grande (Jujuy), Santa María (Catamarca) y Gastre (Chubut). 
